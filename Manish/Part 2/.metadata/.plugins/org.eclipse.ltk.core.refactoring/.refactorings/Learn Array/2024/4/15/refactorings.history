@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;arrays.ByteArray&apos; to &apos;Array&apos;&#x0D;&#x0A;- Original project: &apos;Learn Array&apos;&#x0D;&#x0A;- Original element: &apos;arrays.ByteArray&apos;&#x0D;&#x0A;- Renamed element: &apos;arrays.Array&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ByteArray&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;arrays{ByteArray.java[ByteArray" matchStrategy="1" name="Array" qualified="false" references="true" similarDeclarations="false" stamp="1713005687141" textual="false" version="1.0"/>
+</session>
